@@ -1,5 +1,4 @@
 import os
-import platform
 import threading
 import socket
 from datetime import datetime
